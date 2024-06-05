@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-o meu nome é Lucca 
+o meu nome é Lucca
 
--estou estudando com o Alura 
+-estou estudando com o [Alura](https://www.alura.com.br) 
 
 -estou estudando o desenvolvimento da liguagem JavaScript
 
@@ -11,3 +11,6 @@ o meu nome é Lucca
 - **Meu email intitucional é**
 
 - 0000111317404sp@al.educacao.sp.gov.br
+
+ ![](https://media1.tenor.com/m/6HdySNL-OGEAAAAC/peace-out-peace-sign.gif)
+ 
