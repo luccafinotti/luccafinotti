@@ -8,7 +8,7 @@ o meu nome é Lucca
 
 -utilizarei este espaço para o minha organização e para salvar meus projetos em desenvolvimento 
 
-- **Meu email intitucional é**
+- **Entre em contato comigo pelo email a baixo**
 
 - 0000111317404sp@al.educacao.sp.gov.br
 
